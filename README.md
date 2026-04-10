@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-> Final-year CS student at VIT Chennai, specializing in AI and machine learning. My work lives in the space between data pipelines and deployed products — I care about building things that are reliable under pressure, not just impressive in a notebook.
+> BTech CS graduate student at VIT Chennai, specializing in AI and machine learning. My work lives in the space between data pipelines and deployed products — I care about building things that are reliable under pressure, not just impressive in a notebook.
 >
 > I'm not chasing a job title — I'm chasing the kind of work that makes me a sharper engineer over time.
 
