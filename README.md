@@ -53,6 +53,7 @@
 - 📡 **Live sentiment pipeline** — integrating financial news and social signal analysis
 - 📈 **Backtesting module** — Sharpe ratio, max drawdown, win-rate metrics
 - 🖥️ **FastAPI backend** — serving signals with confidence intervals
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Garimamishra23/stock-market-prediction-app)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
